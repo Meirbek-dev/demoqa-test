@@ -1,0 +1,26 @@
+{
+    "alert_text": "You clicked a button",
+    "confirm_box_text": "Do you confirm action?",
+    "confirm_box_result_text": "You selected Ok",
+    "prompt_text": "Please enter your name",
+    "parent_frame_text": "Parent frame",
+    "child_frame_text": "Child Iframe",
+    "table_users": [
+        {
+            "First Name": "Jon",
+            "Last Name": "Snow",
+            "Email": "knownothing@gmail.com",
+            "Age": 30,
+            "Salary": 3000,
+            "Department": "alpha"
+        },
+        {
+            "First Name": "Buttercup",
+            "Last Name": "Cumbersnatch",
+            "Email": "BudapestCandygram@mail.io",
+            "Age": 41,
+            "Salary": 2000,
+            "Department": "beta"
+        }
+    ]
+}

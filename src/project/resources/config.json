@@ -1,0 +1,21 @@
+{
+    "startPageURL": "https://demoqa.com/",
+    "browserName": "chrome",
+    "driverSettings": {
+        "chrome": {
+            "webDriverVersion": "latest",
+            "startArguments": [
+                "--start-maximized"
+            ]
+        },
+        "firefox": {
+            "webDriverVersion": "latest",
+            "startArguments": [
+            ]
+        },
+        "timeouts": {
+            "timeoutExplicit": 3,
+            "timeoutForAlert": 3
+        }
+    }
+}
